@@ -9,6 +9,6 @@
     - [HTML Dog](https://htmldog.com/)
 
 - Some useful tips/cheatsheets 
-    - (Simple tips and tricks for your website)[https://thomasorus.com/html-tips.html]
-    - (HTML reference)[https://htmlreference.io/]
-    - (CSS reference)[https://cssreference.io/]
+    - [Simple tips and tricks for your website](https://thomasorus.com/html-tips.html)
+    - [HTML reference](https://htmlreference.io/)
+    - [CSS reference](https://cssreference.io/)
