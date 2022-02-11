@@ -8,7 +8,7 @@
     - [HTML & CSS IS HARD](https://www.internetingishard.com/html-and-css/)
     - [HTML Dog](https://htmldog.com/)
 
-- Some useful tips/cheatsheets 
-    - [Simple tips and tricks for your website](https://thomasorus.com/html-tips.html)
-    - [HTML reference](https://htmlreference.io/)
-    - [CSS reference](https://cssreference.io/)
+- Thomasorus has some useful tips when making websites!
+    - [HTML tips](https://thomasorus.com/html-tips.html)
+    - [CSS tips](https://thomasorus.com/css-tips.html)
+
